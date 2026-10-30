@@ -2,4 +2,4 @@
 :HL["/_next/static/css/ef2cf3dc2afa7880.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"-oRsARH0h_ND0UhdRNrQT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"BAa3hFSbdqIAyo3AyJpnp","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
