@@ -1,0 +1,23 @@
+Authored guidance with offline synthetic narration.
+
+Follow the chain.
+
+The front gear has 40 teeth and turns at 30 revolutions per minute.
+
+Each full turn advances 40 chain pitches.
+
+The ideal no-slip chain carries the same chain pitches past both gears.
+
+Take apart pauses motion for inspection.
+
+Cancel restores the entry view; Put back restores the assembly.
+
+Pulling does not disconnect the model.
+
+The rear gear has 20 teeth.
+
+Rear speed = 30  times  40  divided by  20 = 60 revolutions per minute.
+
+Change a supported setting and observe the result.
+
+Force, torque, slip and road speed are outside this model.

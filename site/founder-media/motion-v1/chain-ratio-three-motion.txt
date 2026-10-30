@@ -1,0 +1,64 @@
+Change the ratio
+
+Baseline 48/16 teeth, 30 rpm input; ideal no-slip model.
+
+Actual timestamped UI footage. Authored offline synthetic voiceover added afterward.
+
+Authored guidance with offline synthetic narration.
+
+Change the ratio.
+
+The front gear has 48 teeth and turns at 30 revolutions per minute.
+
+Each full turn advances 48 chain pitches.
+
+The ideal no-slip chain carries the same chain pitches past both gears.
+
+Take apart pauses motion for inspection.
+
+Cancel restores the entry view; Put back restores the assembly.
+
+Pulling does not disconnect the model.
+
+The rear gear has 16 teeth.
+
+Rear speed = 30  times  48  divided by  16 = 90 revolutions per minute.
+
+Change a supported setting and observe the result.
+
+Force, torque, slip and road speed are outside this model.
+
+
+Recorded actions:
+0.00s: Starting baseline; offline authored voiceover added afterward.
+5.60s: Inspect front gear, resume accepted motion.
+17.70s: Pull Front gear; inspection only, not disconnection.
+18.39s: Pull Chain; inspection only, not disconnection.
+19.22s: Pull Rear gear; inspection only, not disconnection.
+22.51s: Cancel restores entry assembly.
+23.30s: Pull rear gear again to show Put back.
+24.43s: Put back, then resume accepted motion.
+37.99s: Changed experiment; narration states baseline, UI current values.
+44.40s: Prepare exact context only. No request sent; live Q&A unavailable.
+
+Changed current settings and outputs:
+[
+  {
+    "component_id": "6ca52b62-c953-5f16-98a8-986e57748019",
+    "extension_id": "ideal_chain_gear",
+    "state": {
+      "front_teeth": 48,
+      "rear_teeth": 16,
+      "cadence_rpm": 15
+    },
+    "outputs": {
+      "rear_turns_per_front_turn": {
+        "numerator": 3,
+        "denominator": 1
+      },
+      "rear_cadence_rpm": 45
+    }
+  }
+]
+
+No question was sent and no live answer was generated. Human pronunciation/voice-quality sign-off remains pending.

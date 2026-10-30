@@ -1,0 +1,21 @@
+Authored guidance, with offline synthetic narration.
+
+This direct-drive teaching turbine starts at eight meters per second wind.
+
+Play shows blades, shaft, and generator rotor turning together at one-quarter speed.
+
+The stator and tower stay still.
+
+Pause, select each declared part, and pull it or use its slider.
+
+Put it back, cancel to restore the entry, or reset phase zero.
+
+Keep a comparison, then increase wind or pitch.
+
+Power follows wind speed cubed; our chosen extraction coefficient is zero point three five times cosine squared pitch.
+
+Efficiency is fixed at ninety percent.
+
+This is not a force solver, and pulling never disconnects it.
+
+Own-account questions remain held by profile policy.

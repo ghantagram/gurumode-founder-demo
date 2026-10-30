@@ -1,0 +1,60 @@
+Same light, more motion
+
+Baseline f/8, 32 ms; fixed 50 mm lens, moving subject.
+
+Actual timestamped UI footage. Authored offline synthetic voiceover added afterward.
+
+Authored guidance with offline synthetic narration.
+
+Same light, more motion.
+
+The aperture is f number 8.
+
+With the fixed 50 millimeters lens, its opening is 6.25 millimeters wide.
+
+A smaller f-number gives a wider opening.
+
+The shutter stays open for 32 milliseconds.
+
+This setting collects 1 times the reference light in this fixed-scene illustration.
+
+At the model's fixed speed, the subject travels 5.12 scene pixels during the exposure.
+
+Play the scene, then pause before changing settings.
+
+This is an illustration, not a calibrated photograph.
+
+
+Recorded actions:
+0.00s: Starting baseline; authored synthetic voiceover added afterward.
+5.37s: Inspect aperture illustration at baseline f/8.
+13.03s: Cancel restores aperture entry view.
+17.05s: Inspect shutter illustration at baseline 32 ms.
+21.22s: Put shutter back; no physical disconnection.
+24.73s: Inspect external scene target, not camera internals.
+29.18s: Restore subject and return to photograph.
+31.33s: Play actual subject motion, full photograph in frame.
+33.18s: Pause before changing settings.
+35.96s: Changed experiment; narration states starting baseline.
+39.30s: Prepare context only; no request sent, live Q&A unavailable.
+
+Changed current settings and outputs:
+[
+  {
+    "component_id": "ac2bb55f-c42a-5ff7-960e-cbda579657b4",
+    "extension_id": "camera_exposure",
+    "state": {
+      "f_number": 4,
+      "exposure_ms": 32,
+      "subject_moving": true
+    },
+    "outputs": {
+      "relative_light": 4,
+      "stops_from_reference": 2,
+      "aperture_diameter_mm": 12.5,
+      "motion_distance_px": 5.12
+    }
+  }
+]
+
+No question was sent and no live answer was generated. Human pronunciation/voice-quality sign-off remains pending.

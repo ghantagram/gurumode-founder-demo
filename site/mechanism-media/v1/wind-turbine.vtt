@@ -1,0 +1,55 @@
+WEBVTT
+
+NOTE Authored baseline guidance. Offline synthetic Flite SLT narration. Sentence timing measured from exact PCM frames and verified with FFprobe; not word/phoneme alignment.
+
+1
+00:00:00.000 --> 00:00:03.370
+Authored guidance, with offline synthetic narration.
+
+2
+00:00:03.620 --> 00:00:07.605
+This direct-drive teaching turbine starts at eight
+meters per second wind.
+
+3
+00:00:07.855 --> 00:00:12.915
+Play shows blades, shaft, and generator rotor
+turning together at one-quarter speed.
+
+4
+00:00:13.165 --> 00:00:15.495
+The stator and tower stay still.
+
+5
+00:00:15.745 --> 00:00:20.150
+Pause, select each declared part, and pull it or use
+its slider.
+
+6
+00:00:20.400 --> 00:00:24.695
+Put it back, cancel to restore the entry, or reset
+phase zero.
+
+7
+00:00:24.945 --> 00:00:28.045
+Keep a comparison, then increase wind or pitch.
+
+8
+00:00:28.295 --> 00:00:35.600
+Power follows wind speed cubed; our chosen
+extraction coefficient is zero point three five
+times cosine squared pitch.
+
+9
+00:00:35.850 --> 00:00:38.850
+Efficiency is fixed at ninety percent.
+
+10
+00:00:39.100 --> 00:00:42.945
+This is not a force solver, and pulling never
+disconnects it.
+
+11
+00:00:43.195 --> 00:00:46.735
+Own-account questions remain held by profile policy.
+
