@@ -1,10 +1,10 @@
 {
-  "build": "founder-review-2026-11-02.hosted-1",
+  "build": "founder-review-2026-11-02.hosted-2",
   "created": "2026-11-02",
   "topics": 10,
   "live_generation": false,
   "account_saving": false,
   "prepared_simulations": true,
-  "source_digest": "cdb6c8f6a817454dd5bdf33b4c952163267398d2e978b2a9c9529c7d28f28d17",
+  "source_digest": "db2dc2564b7126aa3ae67b8e080586350b15445d8c042ca23574538a11ecdfb9",
   "independent_teacher_review": "pending"
 }
