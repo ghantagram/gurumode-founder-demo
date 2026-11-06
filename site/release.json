@@ -1,11 +1,11 @@
 {
-  "build": "founder-review-2026-11-06.engine-2",
+  "build": "founder-review-2026-11-06.engine-3",
   "created": "2026-11-06",
   "topics": 10,
   "engine_simulations": 9,
   "live_generation": false,
   "account_saving": false,
   "prepared_simulations": true,
-  "source_digest": "9121d0b7afd27a1b174f66b4c8f30853fb1350f2e91a660747d59cd29d2db2a9",
+  "source_digest": "6f234635284b218b7d952c506a88e6854845b435abad715d83e66492602dacc9",
   "independent_teacher_review": "pending"
 }
